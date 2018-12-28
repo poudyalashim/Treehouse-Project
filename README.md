@@ -1,2 +1,1 @@
-# Treehouse-Project
-Project 1 
+# Treehouse Project
